@@ -36,3 +36,4 @@ You can connect with developers around the world to ask and answer questions, le
 ### Personal Notes
 I've had to use Git and GitHub last semester (Spring 2024) when I took a Intro to Advanced Data Analysis class.
 
+Make a change to your file on GitHub and commit.
