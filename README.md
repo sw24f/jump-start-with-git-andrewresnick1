@@ -1,1 +1,1 @@
-Getting Started with Assignment 1
+Assignment 1 - Getting started with Git
